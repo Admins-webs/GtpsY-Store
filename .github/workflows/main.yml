@@ -117,7 +117,7 @@
         <div class="play">
             <h1 id="tutorialHt"><span>H</span>ow To Play</h1>
             <div id="playAbout">Tutorial how to play <span class="Alam~PS"></span> in your device</div>
-            <input type="text" id="copyFrom" name="" value="" style="position: absolute; left: -500%;">
+            : absolute; left: -500%;">
 
             <ul>
                 <li>
